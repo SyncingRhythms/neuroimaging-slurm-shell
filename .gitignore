@@ -1,0 +1,8 @@
+# ignore all . files and . folders
+.*
+# Dont ignore .gitignore (this file)
+!/.gitignore
+
+# ignore
+.DS_Store/
+.ipynb_checkpoints/
